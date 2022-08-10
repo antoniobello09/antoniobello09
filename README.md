@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniobello09
-- 👀 I’m interested in Information technology
+- 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning GIT
 
 
